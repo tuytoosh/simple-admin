@@ -1,0 +1,13 @@
+{
+    "name": "hamid/simple-admin",
+    "description": "a test admin package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hamid Haghdoost",
+            "email": "tuytoosh@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
