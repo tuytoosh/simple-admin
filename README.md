@@ -1,4 +1,2 @@
 # simple-admin
-a admin package just for test
-
-require `tuytoosh/siimple-admin' in your command prompt to install
+a admin package only(and only and only) for test and learning :)
