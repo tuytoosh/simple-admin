@@ -8,7 +8,7 @@
             "email": "tuytoosh@yahoo.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "5.0.*"
