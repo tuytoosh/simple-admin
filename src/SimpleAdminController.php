@@ -17,6 +17,6 @@ class SimpleAdminController extends Controller {
     {
         $users = User::all();
 
-        return view('simpleAdmin::admin')->with('users', $users);
+        return view('SimpleAdmin::admin')->with('users', $users);
     }
 }
