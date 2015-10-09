@@ -15,7 +15,7 @@
     },
     "autoload": {
       "psr-4": {
-          "tuytoosh\\simple-admin\\": "src/"
+          "tuytoosh\\SimpleAdmin\\": "src/"
       }
   }  
 }
