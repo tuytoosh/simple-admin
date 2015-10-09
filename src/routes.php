@@ -1,3 +1,3 @@
 <?php
 
-Route::get('admin', 'Hamid\simpleAdmin\SimpleAdminController@index');
+Route::get('admin', 'Hamid\SimpleAdmin\SimpleAdminController@index');
