@@ -11,7 +11,7 @@ class SimpleAdminServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-        $this->loadViewsFrom(__DIR__.'/views', 'simpleAdmin');
+        $this->loadViewsFrom(__DIR__.'/views', 'SimpleAdmin');
 	}
 
 	/**
